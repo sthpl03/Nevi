@@ -1,0 +1,19 @@
+{
+  "name": "nevi",
+  "version": "2.0.0",
+  "description": "Nevi is a multi-purpose discord bot that will help you make your server how you want it, with verification, moderation, customization and much more so you can make the server you dreamed of.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nevysian",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "express": "^4.17.1",
+    "ms": "^2.1.2",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {}
+}
