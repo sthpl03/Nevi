@@ -1,18 +1,18 @@
 {
-    "token": "NzAzMDQyMDEwMzUyNzEzNzI5.XqI05Q.brjAR2xRH343RlqvVrT2FCjZ9RE",
+    "token": "",
     "prefix": "n!",
     "name": "Nevi",
     "color": "#0098ff",
     "version": "2.0.0",
-    "owner_id": 657702969034407947,
+    "owner_id": ,
     "max_reason_length": 768,
     "invite": "https://nevi.tk/invite",
-    "server_invite": "https://discord.gg/57Gdp6R5yS",
-    "vote_link": "https://top.gg/bot/703042010352713729/vote",
-    "database_password": "pKu7a5rQaS6CB5dfTs8E",
+    "server_invite": "",
+    "vote_link": "",
+    "database_password": "",
     "error_logging": {
-        "token": "JqZPMLUfIpDArJUvonrVg8Bwd3irJDLWviCeUpewl2wOg5FuaXZ5y0E1_qhZZpt6wZ6b",
-        "id": "736220906145316954"
+        "token": "",
+        "id": ""
     },
-    "hcaptcha_secret": "0x0e6fc37e7c2d0366280e8B25FdfB8300A147a3b7"
+    "hcaptcha_secret": ""
 }
